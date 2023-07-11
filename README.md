@@ -36,7 +36,7 @@ If you are using your own repository, you need to copy only the `.github/workflo
 from
     `uses: './.github/workflows/terraform.yml'`
 to
-    `uses: 'garis-space/iac-tf/.github/workflows/terraform.yml'`
+    `uses: 'adavarski/tf-cloud-gh-actions/.github/workflows/terraform.yml'`
 
 Then set the Terraform Cloud Organization API Token `TF_API_TOKEN` and Organization Name `TF_ORGANIZATION` as the secret in the GitHub repository settings as shown in the screenshot below.
 
