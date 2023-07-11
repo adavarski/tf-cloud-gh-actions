@@ -45,9 +45,9 @@ Then set the Terraform Cloud Organization API Token `TF_API_TOKEN` and Organizat
 Clone forked or your own repository to your local machine.
 
 ```bash
-git clone git@github.com:adavarski/tf-cloud-gh-actions.git
+git clone git@github.com:adavarski/adavarski/tf-cloud-gh-actions.git
 
-cd iac-tf
+cd tf-cloud-gh-actions
 ```
 
 In the root directory of the project we have terraform directory structure that is designed to be reusable across multiple cloud providers and multiple environments. The directory structure is as follows:
