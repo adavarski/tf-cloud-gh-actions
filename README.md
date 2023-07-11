@@ -45,7 +45,7 @@ Then set the Terraform Cloud Organization API Token `TF_API_TOKEN` and Organizat
 Clone forked or your own repository to your local machine.
 
 ```bash
-git clone git@github.com:garis-space/iac-tf.git
+git clone git@github.com:adavarski/tf-cloud-gh-actions.git
 
 cd iac-tf
 ```
