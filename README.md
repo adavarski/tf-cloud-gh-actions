@@ -133,3 +133,4 @@ terraform plan
 # Apply the Terraform plan
 terraform apply
 ```
+[Thanks](https://github.com/garis-space/iac-tf)
