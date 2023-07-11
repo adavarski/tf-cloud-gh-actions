@@ -30,7 +30,7 @@ https://app.terraform.io/app/<ORGANIZATION_NAME>/settings/authentication-tokens
 #
 ### Step 2 - Project
 
-You can fork the repository `https://github.com/garis-space/iac-tf` or use your own repository with the same directory structure.
+You can fork the repository `https://github.com/adavarski/tf-cloud-gh-actions` or use your own repository with the same directory structure.
 
 If you are using your own repository, you need to copy only the `.github/workflows/ci-cd.yml` file to your repository and change the line
 from
@@ -71,7 +71,7 @@ git checkout -b prod
 git push origin prod
 ```
 
-Login to the Terraform Cloud and navigate to Create a new Workspace https://app.terraform.io/app/garis-space/workspaces/new.
+Login to the Terraform Cloud and navigate to Create a new Workspace https://app.terraform.io/app/adavarski-space/workspaces/new.
 
 Choose the Version Control Workflow and select the GitHub repository that you forked in the previous step.
 
