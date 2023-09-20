@@ -4,7 +4,7 @@ This Workflow will check if the Terraform code is formatted, valid, secure, gene
 
 ![Workflow Diagram](docs/images/workflow-diagram.png)
 
-#
+
 ### Prerequisites
 
 This post assumes that you will create or have an account with [Terraform Cloud Account](https://app.terraform.io)
