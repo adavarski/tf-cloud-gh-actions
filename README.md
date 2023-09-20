@@ -1,5 +1,6 @@
 ### Reusable Terraform Workflow for GitHub Actions with Multiple Environments
 
+
 This Workflow will check if the Terraform code is formatted, valid, secure, generate documentation, create a workspace in Terraform Cloud, plan the Terraform code and apply the Terraform code if the pull request is merged. Terraform directory structure has been designed to be reusable across multiple cloud providers and multiple environments.
 
 ![Workflow Diagram](docs/images/workflow-diagram.png)
